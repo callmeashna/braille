@@ -17,6 +17,9 @@ A web application for converting between text and Braille using the Unified Engl
 2. Type text in the left panel → see Braille conversion
 3. Paste Braille in the right panel → see text conversion
 4. Switch between Grade-1, Numbers, and Grade-2 modes
+<img width="1455" height="823" alt="Screenshot 2025-09-09 220533" src="https://github.com/user-attachments/assets/04d08514-28c7-49f4-9c2a-b9a0b0fc84dd" />
+<img width="1507" height="741" alt="Screenshot 2025-09-09 220552" src="https://github.com/user-attachments/assets/6650fbf8-d6a7-429a-8f27-dbd91badf59b" />
+<img width="1395" height="1000" alt="Screenshot 2025-09-09 220610" src="https://github.com/user-attachments/assets/846d8d92-3b08-4aca-b0f1-9b26beda6b9a" />
 
 ## Keyboard Shortcuts
 
@@ -67,14 +70,14 @@ Contact: ashna12shaji@gmail.com
 
 🌟 **Acknowledgments**
 
-**Braille Authority of North America (BANA) for UEB standards
+Braille Authority of North America (BANA) for UEB standards
 Unicode Consortium for Braille Patterns block
 Web Accessibility Initiative (WAI) for accessibility guidelines
 Braille community for feedback and testing
-**
 
-**🔗 Resources
-**
+
+🔗 Resources
+
 UEB Guidelines
 Unicode Braille Patterns
 Web Accessibility Guidelines
